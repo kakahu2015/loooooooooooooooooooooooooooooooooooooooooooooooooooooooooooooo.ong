@@ -1,5 +1,5 @@
 const domain =
-	"long.kakahu.org";
+	"kakahu.org";
 export default {
 	title: "Make URL longer",
 	description: "Make your URL longer",
