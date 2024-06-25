@@ -2,6 +2,6 @@
 
 Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 
-<https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong>
+<https://long.kakahu.org>
 
 ![Banner](./public/banner.png)
