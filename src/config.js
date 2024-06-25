@@ -1,7 +1,7 @@
 const domain =
-	"loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong";
+	"long.kakahu.org";
 export default {
-	title: "L(o*62).ong",
+	title: "Make URL longer",
 	description: "Make your URL longer",
 	url: `https://${domain}`,
 	image: `https://${domain}/banner.png`,
